@@ -12,7 +12,7 @@ npm install
 
 ## Getting Started
 
-To get you application working, create a [![dot.env status]] file in the [![config status]] folder and paste the below configuration in the file with you custom values.
+To get you application working, create a `dot.env` file in the `config` folder and paste the below configuration in the file with you custom values.
 
 ~~~
 PORT=your-port 
